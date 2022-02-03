@@ -1,2 +1,2 @@
 # Cats-Dogs-Computer-Vision
-AI to differentiate cats and dogs
+Classic computer vision project to differentiate cats and dogs
